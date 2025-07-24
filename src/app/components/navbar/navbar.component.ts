@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { Router, RouterModule } from '@angular/router';
 import { AuthService } from '../../services/auth.service';
 import { TravelDataService } from '../../services/travel-data.service';
+import { PopupServiceService } from "../../services/popup.service.service"
 
 @Component({
   selector: 'app-navbar',
@@ -11,7 +12,8 @@ import { TravelDataService } from '../../services/travel-data.service';
   styleUrls: ['./navbar.component.css'],
   imports: [CommonModule, RouterModule]
 })
-export class NavbarComponent {
+export class NavbarComponent
+ {
   @Output() destinationClicked = new EventEmitter<string>();
   isLoginModalOpen = false;
   isScrolled = false;
@@ -23,7 +25,8 @@ export class NavbarComponent {
   constructor(
     private travelDataService: TravelDataService,
     public authService: AuthService,
-    private router: Router
+    private router: Router,
+    private popupService: PopupServiceService,
     ) {
     this.authService.currentUser$.subscribe(user => {
       this.user = user;
@@ -34,11 +37,15 @@ export class NavbarComponent {
     await this.router.navigate(['/destinations'])
   }
 
+   openEnquirePopup() {
+     this.popupService.openPopup()
+   }
+
   @HostListener('window:scroll', [])
-  onWindowScroll() 
+  onWindowScroll()
   {
     const currentScrollY = window.scrollY;
-    // this.isHidden = currentScrollY > this.lastScrollY && currentScrollY > 100;
+    this.isHidden = currentScrollY > this.lastScrollY && currentScrollY > 100;
     this.isScrolled = currentScrollY > 50;
     this.lastScrollY = currentScrollY;
   }
