@@ -16,12 +16,12 @@ export class TravelDataService {
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753355254/You_Me_-_Aerial_ym7479.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753466134/COCOON-NIGHT-VIEW_dp9bdc.jpg',
         ],
       topImages: [
-        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
-        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_4_fioqla.jpg',
-        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752273/maldives_5_s4teo4.jpg',
+        'https://res.cloudinary.com/djwss052h/image/upload/v1753453997/1_d7xof3.jpg',
+        'https://res.cloudinary.com/djwss052h/image/upload/v1751277065/Untitled_design_1_wolixm.jpg',
+        'https://res.cloudinary.com/djwss052h/image/upload/v1753454382/Au_Soleil_Beach_Barbeque_b5thxq.jpg',
       ],
       interestingFacts: [
         '1,000+ coral islands with clear blue waters',
@@ -30,28 +30,28 @@ export class TravelDataService {
       ],
       "introSection": {
         "title": "Explore the Maldives",
-        "subtitle": "where paradise meets the sea",
+        "subtitle": "Where Paradise Meets the Sea",
         "description": "The Maldives is a tropical island paradise known for luxury overwater villas, white sand beaches, and crystal-clear waters. Perfect for honeymoons, snorkeling, and relaxing beach holidays, it's one of the world’s top luxury travel destinations.",
         "highlights": [
           {
             "icon": "🏝️",
-            "title": "Islands",
-            "value": "1,000+"
+            "title": "Bioluminescent Beaches",
+            "value": ""
           },
           {
-            "icon": "🐠",
-            "title": "Coral Reefs",
-            "value": "5+"
+            "icon": "🍷",
+            "title": "Underwater Dining",
+            "value": ""
           },
           {
-            "icon": "🏨",
+            "icon": "🏠",
             "title": "Overwater Villas",
-            "value": "Luxury"
+            "value": ""
           },
           {
-            "icon": "🤿",
-            "title": "Snorkeling Spots",
-            "value": "50+"
+            "icon": "🎬",
+            "title": "Starlight Cinema on the Beach",
+            "value": ""
           }
         ],
         "quickFacts": [
@@ -68,8 +68,8 @@ export class TravelDataService {
             "value": "Maldivian Rufiyaa (MVR)"
           },
           {
-            "label": "Time Zone",
-            "value": "GMT+5"
+            "label": "VISA",
+            "value": "On Arrival"
           }
         ]
       },
@@ -156,26 +156,27 @@ export class TravelDataService {
           services: [
             {
               icon: 'fas fa-drumstick-bite',
-              title: 'Local Cuisine',
-              imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",              description: 'savor the exquisite local cuisine and dining experiences.'
+              title: 'Beach Villas',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1753358911/2-Safari-Beach-Villa_paecba.jpg",              
+              description: 'Steps from the sea, wrapped in palm trees—your private slice of beachside paradise..'
             },
             {
               icon: 'fas fa-umbrella-beach',
-              title: 'Beach Resorts',
-              description: 'Relax at our premium beach resorts and enjoy the sun and sea.',
-              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              title: 'In-Ocean Villas',
+              description: 'Perched above crystal-clear waters, these villas offer endless ocean views and direct lagoon access—pure Maldivian magic.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1753459340/Crusoe-Villa-by-Haneen-Soneva-Colours-Small-8-1600x900_t0q7y0.jpg",
             },
             {
               icon: 'fas fa-hiking',
-              title: 'adventure tours',
-              description: 'join Our Adventure tours And explore the breathtaking landscapes.',
-              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              title: 'Water-Sports',
+              description: 'Thrill meets paradise—jet ski, snorkel, dive, or paddle through the Maldives’ crystal-clear waters.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1753460911/Thailand_3_nzbd3f.png",
             },
             {
               icon: 'fas fa-mountain',
-              title: 'cultural experiences',
-              description: 'immerse yourself in the rich cultural experiences and traditions.',
-              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              title: 'Marine Life',
+              description: 'Colorful reefs, graceful manta rays, and vibrant schools of fish—marine life in the Maldives is like diving into a living aquarium.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1751277591/snork-gallery-large-4_yym3xf.jpg",
             }
           ]
         },
@@ -344,7 +345,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359805/pexels-apasaric-3629227_xmvgqa.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753353840/Atlantis_The_Royal_Dubai_012A7861_ung0md.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -672,7 +673,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753356665/pexels-stijn-dijkstra-1306815-2674062_1_vsjcmy.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753463268/pexels-stijn-dijkstra-1306815-2583832_tpwpea.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -1000,7 +1001,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753363937/Aerial-view-of-Maya-bay-in-Phi-phi-island-Thailand_ynazk4.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753464216/alejandro-cartagena-B64B6-kAWlw-unsplash_glzxpp.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -1328,7 +1329,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753360303/Living-in-Malaysia-The-Expat-Guide_cotqke.webp',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753464453/pexels-azri-suratmin-33181-122244_eric4v.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -1648,12 +1649,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       id: 'singapore',
       name: 'Singapore',
       description: 'Where night glows like a dream and every street hums with life.',
-      destinationName: 'Singapore',
+      destinationName: 'singapore',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753369339/Thailand_1_hovokr.png',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753465006/pang-yuhao-WxREM3u9ytk-unsplash_wiqxtb.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -1977,7 +1978,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359106/pexels-ooguzhanyavuz-32594514_oajfl0.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753359108/pexels-ekrulila-14524978_tzsqz7.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -2305,7 +2306,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753443061/buzz-zhang-vKthuPWkwQs-unsplash_abn0px.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753362111/Underwater-waterfall-Le-Morne-Mauritius_tqbrxd.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -2633,7 +2634,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753365117/pexels-chaitaastic-1796716_wtwqqw.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753364367/pexels-eitan-rudinsky-1053507-2032332_vuzqki.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -2961,7 +2962,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753362588/tanzania-wild-sky-esqhSWDzOWk-unsplash_wg9m8x.jpg',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753465937/pexels-abdullatif-bukeni-1296376-16168264_nybd5u.jpg',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -3289,7 +3290,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       heroImage: 'https://wp.resplendentceylon.com/wp-content/uploads/2024/09/Wild-Coast-Tented-Lodge-6-2200-x-2750-scaled.webp',
       destinationImage:
         [
-          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+          'https://res.cloudinary.com/djwss052h/image/upload/v1753465942/Wild-Coast-Tented-Lodge-1920-x-1280_zq4sqp.webp',
         ],
       topImages: [
         'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
@@ -3617,7 +3618,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
           heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753366081/jet-dela-cruz-5QbZIJV8k4E-unsplash_yrbx2n.jpg',
           destinationImage:
             [
-              'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+              'https://res.cloudinary.com/djwss052h/image/upload/v1753465693/sammie-nguyen-I8jg_TI6-hc-unsplash_folgxe.jpg',
             ],
           topImages: [
             'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
