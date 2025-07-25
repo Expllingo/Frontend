@@ -333,12 +333,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
           },
         ],
       cost: 110000,
-      duration: "4D/3N",
+      duration: "5D/4N",
     },
     {//dubai
       id: 'dubai',
       name: 'Dubai',
-      description: 'Dubai is where luxury, skyline views, and desert adventures collide.',
+      description: 'Where luxury meets towering skylines and the thrill of the desert all in one place.',
       destinationName: 'dubai',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359805/pexels-apasaric-3629227_xmvgqa.jpg',
@@ -666,7 +666,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Bali
       id: 'bali',
       name: 'Bali',
-      description: 'Stunning beaches, rich culture, and unforgettable beauty await in Bali.',
+      description: 'Where lush jungles meet crystal waters, and every moment feels like a dream.',
       destinationName: 'bali',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753356665/pexels-stijn-dijkstra-1306815-2674062_1_vsjcmy.jpg',
@@ -994,7 +994,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Thailand
       id: 'thailand',
       name: 'Thailand',
-      description: 'Beaches and rich culture—Thailand at its best..',
+      description: 'Vibrant streets, serene temples, and sunsets that stay with you — a sensory paradise.',
       destinationName: 'thailand',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753363937/Aerial-view-of-Maya-bay-in-Phi-phi-island-Thailand_ynazk4.jpg',
@@ -1322,7 +1322,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Malaysia
       id: 'malaysia',
       name: 'Malaysia',
-      description: 'Tropical shores and vibrant traditions—Malaysia awaits...',
+      description: 'Tropical shores, buzzing night markets, and traditions that light up every corner.',
       destinationName: 'malaysia',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753360303/Living-in-Malaysia-The-Expat-Guide_cotqke.webp',
@@ -1647,7 +1647,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Singapore
       id: 'singapore',
       name: 'Singapore',
-      description: 'Urban energy meets rich heritage—discover Singapore.',
+      description: 'Where night glows like a dream and every street hums with life.',
       destinationName: 'Singapore',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753369339/Thailand_1_hovokr.png',
@@ -1971,7 +1971,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Turkey
       id: 'turkey',
       name: 'Turkey',
-      description: 'Where stunning coastlines meet ancient cultures.',
+      description: 'East meets West — where ancient lands wake to hot air balloons at dawn.',
       destinationName: 'turkey',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359106/pexels-ooguzhanyavuz-32594514_oajfl0.jpg',
@@ -2299,10 +2299,10 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Mauritius
       id: 'mauritius',
       name: 'Mauritius',
-      description: 'Pristine beaches, vibrant island culture, and natural wonders await in Mauritius.',
+      description: 'Powdery white beaches, Creole charm, and lush landscapes—an island paradise in every breathtaking detail.',
       destinationName: 'mauritius',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753358731/Untitled_design_2_ruiomo.png',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753443061/buzz-zhang-vKthuPWkwQs-unsplash_abn0px.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -2627,7 +2627,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Europe
       id: 'europe',
       name: 'Europe',
-      description: 'Timeless cities, rich culture, and breathtaking landscapes.',
+      description: 'Cobblestones, castles, and café corners — timeless charm at every turn.',
       destinationName: 'europe',
       number: '1',
       heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753365117/pexels-chaitaastic-1796716_wtwqqw.jpg',
@@ -3283,7 +3283,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Sri Lnaka
       id: 'sri lanka',
       name: 'Sri Lanka',
-      description: 'Golden beaches, lush landscapes, and rich heritage define Sri Lanka.',
+      description: 'Tea plantations, coastal gems, and timeless culture — small island, big experiences.',
       destinationName: 'sri lanka',
       number: '1',
       heroImage: 'https://wp.resplendentceylon.com/wp-content/uploads/2024/09/Wild-Coast-Tented-Lodge-6-2200-x-2750-scaled.webp',
@@ -3611,7 +3611,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//Vietnam
           id: 'vietnam',
           name: 'Vietnam',
-          description: 'Lush landscapes, lively cities, and rich heritage await in Vietnam.',
+          description: 'From terraced hills to lantern-lit streets — rich in flavor, heritage, and heart.',
           destinationName: 'vietnam',
           number: '1',
           heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753366081/jet-dela-cruz-5QbZIJV8k4E-unsplash_yrbx2n.jpg',
