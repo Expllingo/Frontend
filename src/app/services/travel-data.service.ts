@@ -10,10 +10,10 @@ export class TravelDataService {
     {//maldives
       id: 'maldives',
       name: 'Maldives',
-      description: 'Tropical Luxury Island Escape',
+      description: 'It’s a mood: barefoot mornings, ocean everywhere, and time that moves slower.',
       destinationName: 'maldives',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1752073142/maldives_resort_stv7so.webp',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753355254/You_Me_-_Aerial_ym7479.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -338,10 +338,10 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
     {//dubai
       id: 'dubai',
       name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      description: 'Dubai is where luxury, skyline views, and desert adventures collide.',
+      destinationName: 'dubai',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1751275700/Untitled_design_r34wss.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359805/pexels-apasaric-3629227_xmvgqa.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -537,7 +537,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
               ]
             },
             hotelPhotoLabels: ['Suite', 'Pool', 'Lobby', 'Restaurant', 'Spa', 'Garden'],
-            ngplacePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
           },
           {
             day: 2,
@@ -663,13 +663,13 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       cost: 110000,
       duration: "4D/3N",
     },
-    {//Bali-Indonesia
-      id: 'Indonesia',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
+    {//Bali
+      id: 'bali',
+      name: 'Bali',
+      description: 'Stunning beaches, rich culture, and unforgettable beauty await in Bali.',
       destinationName: 'bali',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753356665/pexels-stijn-dijkstra-1306815-2674062_1_vsjcmy.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -992,12 +992,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       duration: "4D/3N",
     },
     {//Thailand
-      id: 'Thailand',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      id: 'thailand',
+      name: 'Thailand',
+      description: 'Beaches and rich culture—Thailand at its best..',
+      destinationName: 'thailand',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753363937/Aerial-view-of-Maya-bay-in-Phi-phi-island-Thailand_ynazk4.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -1320,12 +1320,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       duration: "4D/3N",
     },
     {//Malaysia
-      id: 'Malaysia',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      id: 'malaysia',
+      name: 'Malaysia',
+      description: 'Tropical shores and vibrant traditions—Malaysia awaits...',
+      destinationName: 'malaysia',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753360303/Living-in-Malaysia-The-Expat-Guide_cotqke.webp',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -1645,12 +1645,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       duration: '4D/3N'
     },
     {//Singapore
-      id: 'Singapore',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      id: 'singapore',
+      name: 'Singapore',
+      description: 'Urban energy meets rich heritage—discover Singapore.',
+      destinationName: 'Singapore',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753369339/Thailand_1_hovokr.png',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -1969,12 +1969,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       duration: "4D/3N",
     },
     {//Turkey
-      id: 'Turkey',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      id: 'turkey',
+      name: 'Turkey',
+      description: 'Where stunning coastlines meet ancient cultures.',
+      destinationName: 'turkey',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753359106/pexels-ooguzhanyavuz-32594514_oajfl0.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -2297,12 +2297,12 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       duration: "4D/3N",
     },
     {//Mauritius
-      id: 'Mauritius',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+      id: 'mauritius',
+      name: 'Mauritius',
+      description: 'Pristine beaches, vibrant island culture, and natural wonders await in Mauritius.',
+      destinationName: 'mauritius',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753358731/Untitled_design_2_ruiomo.png',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -2624,13 +2624,13 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       cost: 110000,
       duration: "4D/3N",
     },
-    {//Masai-mara
-      id: 'Masai-mara',
-      name: 'Dubai',
-      description: 'A tropical paradise with lush jungles and serene beaches.',
-      destinationName: 'bali',
+    {//Europe
+      id: 'europe',
+      name: 'Europe',
+      description: 'Timeless cities, rich culture, and breathtaking landscapes.',
+      destinationName: 'europe',
       number: '1',
-      heroImage: 'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752288/bali_4_ah3phz.jpg',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753365117/pexels-chaitaastic-1796716_wtwqqw.jpg',
       destinationImage:
         [
           'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
@@ -2693,8 +2693,7 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
       welcomeSection: {
         title: 'Welcome to Dubai',
         description: 'Discover the vibrant culture and stunning landscapes of Dubai, a city of wonders and adventures.'
-      },
-      mappingDetails:
+      }, mappingDetails:
         [
           {
             mappingId: "ubud",
@@ -2774,7 +2773,8 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
             {
               icon: 'fas fa-drumstick-bite',
               title: 'Local Cuisine',
-              imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",              description: 'savor the exquisite local cuisine and dining experiences.'
+              imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              description: 'savor the exquisite local cuisine and dining experiences.'
             },
             {
               icon: 'fas fa-umbrella-beach',
@@ -2784,13 +2784,13 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
             },
             {
               icon: 'fas fa-hiking',
-              title: 'adventure tours',
+              title: 'Adventure tours',
               description: 'join Our Adventure tours And explore the breathtaking landscapes.',
               imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
             },
             {
               icon: 'fas fa-mountain',
-              title: 'cultural experiences',
+              title: 'Cultural experiences',
               description: 'immerse yourself in the rich cultural experiences and traditions.',
               imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
             }
@@ -2946,11 +2946,995 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
               ]
             },
             hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
-            placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
           },
         ],
       cost: 110000,
       duration: "4D/3N",
+    },
+    {//Kenya
+      id: 'kenya',
+      name: 'Kenya',
+      description: 'Wildlife safaris, savannah sunsets, and the spirit of Africa.',
+      destinationName: 'kenya',
+      number: '1',
+      heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753362588/tanzania-wild-sky-esqhSWDzOWk-unsplash_wg9m8x.jpg',
+      destinationImage:
+        [
+          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+        ],
+      topImages: [
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_4_fioqla.jpg',
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752273/maldives_5_s4teo4.jpg',
+      ],
+      interestingFacts: [
+        'Bali has over 20,000 temples.',
+        'Known for its traditional Balinese dance performances.',
+        'Ubud is the cultural heart of Bali.',
+      ],
+      "introSection": {
+        "title": "Welcome to Dubai",
+        "subtitle": "Discover the vibrant culture and stunning landscapes",
+        "description": "Dubai is a city of wonders and adventures, offering a blend of traditional heritage and modern attractions. From its iconic skyline to beautiful beaches, Dubai promises an unforgettable experience.",
+        "highlights": [
+          {
+            "icon": "🏖️",
+            "title": "Beaches",
+            "value": "10+"
+          },
+          {
+            "icon": "🏞️",
+            "title": "Parks",
+            "value": "5+"
+          },
+          {
+            "icon": "🏛️",
+            "title": "Museums",
+            "value": "7+"
+          },
+          {
+            "icon": "🏛️",
+            "title": "Museums",
+            "value": "7+"
+          }
+        ],
+        "quickFacts": [
+          {
+            "label": "Best Time to Visit",
+            "value": "Spring"
+          },
+          {
+            "label": "Language",
+            "value": "English"
+          },
+          {
+            "label": "Currency",
+            "value": "USD"
+          },
+          {
+            "label": "Time Zone",
+            "value": "GMT-5"
+          }
+        ]
+      },
+      welcomeSection: {
+        title: 'Welcome to Dubai',
+        description: 'Discover the vibrant culture and stunning landscapes of Dubai, a city of wonders and adventures.'
+      }, mappingDetails:
+        [
+          {
+            mappingId: "ubud",
+            mapname: "UBUD",
+            category: "Cultural Heart",
+            mapdescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life.",
+            image: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "42%", left: "54%" },
+            fullDescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life."
+          },
+          {
+            mappingId: "canggu",
+            mapname: "CANGGU",
+            category: "Surf Paradise",
+            mapdescription: "A laid-back beach town known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife. Perfect for surfers and digital nomads.",
+            image: "https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "47%", left: "37%" },
+            fullDescription: "Canggu is a laid-back beach town that has become a hotspot for surfers, digital nomads, and travelers seeking a relaxed coastal vibe. Known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife scene."
+          },
+          {
+            mappingId: "gili-trawangan",
+            mapname: "GILI TRAWANGAN",
+            category: "Island Paradise",
+            mapdescription: "The largest of the three Gili Islands, known for its pristine beaches, crystal-clear waters, and vibrant marine life. No motorized vehicles allowed.",
+            image: "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "35%", left: "83%" },
+            fullDescription: "Gili Trawangan is the largest and most developed of the three Gili Islands. Known for its pristine white sand beaches, crystal-clear turquoise waters, and vibrant marine life. The island maintains its charm with no motorized vehicles allowed."
+          },
+          {
+            mappingId: "nusa-penida",
+            mapname: "NUSA PENIDA",
+            category: "Hidden Gem",
+            mapdescription: "A rugged island southeast of Bali, famous for its dramatic cliffs, pristine beaches, and Instagram-worthy viewpoints like Kelingking Beach.",
+            image: "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "65%", left: "63%" },
+            fullDescription: "Nusa Penida is a rugged island located southeast of Bali, famous for its dramatic limestone cliffs, pristine beaches, and breathtaking viewpoints. Home to the iconic Kelingking Beach and Angel's Billabong."
+          },
+          {
+            mappingId: "seminyak",
+            mapname: "SEMINYAK",
+            category: "Luxury Beach",
+            mapdescription: "Bali's most sophisticated beach resort area, known for its upscale restaurants, luxury resorts, and stylish beach clubs with stunning sunset views.",
+            image: "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "52%", left: "41%" },
+            fullDescription: "Seminyak is Bali's most sophisticated and upscale beach resort area. Known for its luxury resorts, world-class restaurants, designer boutiques, and stylish beach clubs that offer stunning sunset views over the Indian Ocean."
+          }
+        ],
+      aboutItems: [
+        {
+          title: 'Culture',
+          description: 'Experience the rich cultural heritage and traditions of Dubai.',
+          imageUrl: 'https://i.postimg.cc/FK4dtp7z/img-1.jpg',
+          buttonText: 'Read More'
+        },
+        {
+          title: 'History',
+          description: 'Explore the historical landmarks and stories that shaped Dubai.',
+          imageUrl: 'https://i.postimg.cc/1XjnLZq1/about-2.jpg',
+          buttonText: 'Read More'
+        },
+        {
+          title: 'Nature',
+          description: 'Enjoy the natural beauty and serene landscapes of Dubai.',
+          imageUrl: 'https://i.postimg.cc/1X9r9PXg/about-3.jpg',
+          buttonText: 'Read More'
+        }
+      ],
+      serviceSection: {
+          title: 'Services We Provide in Dubai',
+          description: 'Explore the range of services we offer to make your stay in Dubai unforgettable.',
+          services: [
+            {
+              icon: 'fas fa-drumstick-bite',
+              title: 'Local Cuisine',
+              imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              description: 'savor the exquisite local cuisine and dining experiences.'
+            },
+            {
+              icon: 'fas fa-umbrella-beach',
+              title: 'Beach Resorts',
+              description: 'Relax at our premium beach resorts and enjoy the sun and sea.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            },
+            {
+              icon: 'fas fa-hiking',
+              title: 'Adventure tours',
+              description: 'join Our Adventure tours And explore the breathtaking landscapes.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            },
+            {
+              icon: 'fas fa-mountain',
+              title: 'Cultural experiences',
+              description: 'immerse yourself in the rich cultural experiences and traditions.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            }
+          ]
+        },
+      itinerary:
+        [
+          {
+            day: 1,
+            title: 'Arrival in Paradise',
+            transfers: 'Airport to Seminyak - The Bali Dream Villa Seminyak on Private Basis',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'No meals included',
+            highlights: ['Private villa check-in', 'Seminyak exploration', 'Beach relaxation'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Suite', 'Pool', 'Lobby', 'Restaurant', 'Spa', 'Garden'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 2,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 3,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 4,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 5,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+        ],
+      cost: 110000,
+      duration: "4D/3N",
+    },
+    {//Sri Lnaka
+      id: 'sri lanka',
+      name: 'Sri Lanka',
+      description: 'Golden beaches, lush landscapes, and rich heritage define Sri Lanka.',
+      destinationName: 'sri lanka',
+      number: '1',
+      heroImage: 'https://wp.resplendentceylon.com/wp-content/uploads/2024/09/Wild-Coast-Tented-Lodge-6-2200-x-2750-scaled.webp',
+      destinationImage:
+        [
+          'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+        ],
+      topImages: [
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_4_fioqla.jpg',
+        'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752273/maldives_5_s4teo4.jpg',
+      ],
+      interestingFacts: [
+        'Bali has over 20,000 temples.',
+        'Known for its traditional Balinese dance performances.',
+        'Ubud is the cultural heart of Bali.',
+      ],
+      "introSection": {
+        "title": "Welcome to Dubai",
+        "subtitle": "Discover the vibrant culture and stunning landscapes",
+        "description": "Dubai is a city of wonders and adventures, offering a blend of traditional heritage and modern attractions. From its iconic skyline to beautiful beaches, Dubai promises an unforgettable experience.",
+        "highlights": [
+          {
+            "icon": "🏖️",
+            "title": "Beaches",
+            "value": "10+"
+          },
+          {
+            "icon": "🏞️",
+            "title": "Parks",
+            "value": "5+"
+          },
+          {
+            "icon": "🏛️",
+            "title": "Museums",
+            "value": "7+"
+          },
+          {
+            "icon": "🏛️",
+            "title": "Museums",
+            "value": "7+"
+          }
+        ],
+        "quickFacts": [
+          {
+            "label": "Best Time to Visit",
+            "value": "Spring"
+          },
+          {
+            "label": "Language",
+            "value": "English"
+          },
+          {
+            "label": "Currency",
+            "value": "USD"
+          },
+          {
+            "label": "Time Zone",
+            "value": "GMT-5"
+          }
+        ]
+      },
+      welcomeSection: {
+        title: 'Welcome to Dubai',
+        description: 'Discover the vibrant culture and stunning landscapes of Dubai, a city of wonders and adventures.'
+      }, mappingDetails:
+        [
+          {
+            mappingId: "ubud",
+            mapname: "UBUD",
+            category: "Cultural Heart",
+            mapdescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life.",
+            image: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "42%", left: "54%" },
+            fullDescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life."
+          },
+          {
+            mappingId: "canggu",
+            mapname: "CANGGU",
+            category: "Surf Paradise",
+            mapdescription: "A laid-back beach town known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife. Perfect for surfers and digital nomads.",
+            image: "https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "47%", left: "37%" },
+            fullDescription: "Canggu is a laid-back beach town that has become a hotspot for surfers, digital nomads, and travelers seeking a relaxed coastal vibe. Known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife scene."
+          },
+          {
+            mappingId: "gili-trawangan",
+            mapname: "GILI TRAWANGAN",
+            category: "Island Paradise",
+            mapdescription: "The largest of the three Gili Islands, known for its pristine beaches, crystal-clear waters, and vibrant marine life. No motorized vehicles allowed.",
+            image: "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "35%", left: "83%" },
+            fullDescription: "Gili Trawangan is the largest and most developed of the three Gili Islands. Known for its pristine white sand beaches, crystal-clear turquoise waters, and vibrant marine life. The island maintains its charm with no motorized vehicles allowed."
+          },
+          {
+            mappingId: "nusa-penida",
+            mapname: "NUSA PENIDA",
+            category: "Hidden Gem",
+            mapdescription: "A rugged island southeast of Bali, famous for its dramatic cliffs, pristine beaches, and Instagram-worthy viewpoints like Kelingking Beach.",
+            image: "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "65%", left: "63%" },
+            fullDescription: "Nusa Penida is a rugged island located southeast of Bali, famous for its dramatic limestone cliffs, pristine beaches, and breathtaking viewpoints. Home to the iconic Kelingking Beach and Angel's Billabong."
+          },
+          {
+            mappingId: "seminyak",
+            mapname: "SEMINYAK",
+            category: "Luxury Beach",
+            mapdescription: "Bali's most sophisticated beach resort area, known for its upscale restaurants, luxury resorts, and stylish beach clubs with stunning sunset views.",
+            image: "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=400",
+            MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+            coordinates: { top: "52%", left: "41%" },
+            fullDescription: "Seminyak is Bali's most sophisticated and upscale beach resort area. Known for its luxury resorts, world-class restaurants, designer boutiques, and stylish beach clubs that offer stunning sunset views over the Indian Ocean."
+          }
+        ],
+      aboutItems: [
+        {
+          title: 'Culture',
+          description: 'Experience the rich cultural heritage and traditions of Dubai.',
+          imageUrl: 'https://i.postimg.cc/FK4dtp7z/img-1.jpg',
+          buttonText: 'Read More'
+        },
+        {
+          title: 'History',
+          description: 'Explore the historical landmarks and stories that shaped Dubai.',
+          imageUrl: 'https://i.postimg.cc/1XjnLZq1/about-2.jpg',
+          buttonText: 'Read More'
+        },
+        {
+          title: 'Nature',
+          description: 'Enjoy the natural beauty and serene landscapes of Dubai.',
+          imageUrl: 'https://i.postimg.cc/1X9r9PXg/about-3.jpg',
+          buttonText: 'Read More'
+        }
+      ],
+      serviceSection: {
+          title: 'Services We Provide in Dubai',
+          description: 'Explore the range of services we offer to make your stay in Dubai unforgettable.',
+          services: [
+            {
+              icon: 'fas fa-drumstick-bite',
+              title: 'Local Cuisine',
+              imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+              description: 'savor the exquisite local cuisine and dining experiences.'
+            },
+            {
+              icon: 'fas fa-umbrella-beach',
+              title: 'Beach Resorts',
+              description: 'Relax at our premium beach resorts and enjoy the sun and sea.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            },
+            {
+              icon: 'fas fa-hiking',
+              title: 'Adventure tours',
+              description: 'join Our Adventure tours And explore the breathtaking landscapes.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            },
+            {
+              icon: 'fas fa-mountain',
+              title: 'Cultural experiences',
+              description: 'immerse yourself in the rich cultural experiences and traditions.',
+              imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+            }
+          ]
+        },
+      itinerary:
+        [
+          {
+            day: 1,
+            title: 'Arrival in Paradise',
+            transfers: 'Airport to Seminyak - The Bali Dream Villa Seminyak on Private Basis',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'No meals included',
+            highlights: ['Private villa check-in', 'Seminyak exploration', 'Beach relaxation'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Suite', 'Pool', 'Lobby', 'Restaurant', 'Spa', 'Garden'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 2,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 3,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 4,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+          {
+            day: 5,
+            title: 'Nusa Penida Island Adventure',
+            transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+            locations: [
+              {
+                name: 'Seminyak Beach',
+                description: 'Beautiful beach with world-class surfing',
+                images: [
+                  'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                  'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                ]
+              }
+            ],
+            accommodation: 'The Bali Dream Villa Seminyak',
+            mealPlan: 'Breakfast + Lunch',
+            highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+            images: {
+              places: [
+                'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+              ],
+              hotel: [
+                'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+              ]
+            },
+            hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+          },
+        ],
+      cost: 110000,
+      duration: "4D/3N",
+    },
+    {//Vietnam
+          id: 'vietnam',
+          name: 'Vietnam',
+          description: 'Lush landscapes, lively cities, and rich heritage await in Vietnam.',
+          destinationName: 'vietnam',
+          number: '1',
+          heroImage: 'https://res.cloudinary.com/djwss052h/image/upload/v1753366081/jet-dela-cruz-5QbZIJV8k4E-unsplash_yrbx2n.jpg',
+          destinationImage:
+            [
+              'https://res.cloudinary.com/dy6qrgrym/image/upload/v1741453341/cld-sample-2.jpg',
+            ],
+          topImages: [
+            'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_1_ztquft.jpg',
+            'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752277/maldives_4_fioqla.jpg',
+            'https://res.cloudinary.com/dy6qrgrym/image/upload/v1742752273/maldives_5_s4teo4.jpg',
+          ],
+          interestingFacts: [
+            'Bali has over 20,000 temples.',
+            'Known for its traditional Balinese dance performances.',
+            'Ubud is the cultural heart of Bali.',
+          ],
+          "introSection": {
+            "title": "Welcome to Dubai",
+            "subtitle": "Discover the vibrant culture and stunning landscapes",
+            "description": "Dubai is a city of wonders and adventures, offering a blend of traditional heritage and modern attractions. From its iconic skyline to beautiful beaches, Dubai promises an unforgettable experience.",
+            "highlights": [
+              {
+                "icon": "🏖️",
+                "title": "Beaches",
+                "value": "10+"
+              },
+              {
+                "icon": "🏞️",
+                "title": "Parks",
+                "value": "5+"
+              },
+              {
+                "icon": "🏛️",
+                "title": "Museums",
+                "value": "7+"
+              },
+              {
+                "icon": "🏛️",
+                "title": "Museums",
+                "value": "7+"
+              }
+            ],
+            "quickFacts": [
+              {
+                "label": "Best Time to Visit",
+                "value": "Spring"
+              },
+              {
+                "label": "Language",
+                "value": "English"
+              },
+              {
+                "label": "Currency",
+                "value": "USD"
+              },
+              {
+                "label": "Time Zone",
+                "value": "GMT-5"
+              }
+            ]
+          },
+          welcomeSection: {
+            title: 'Welcome to Dubai',
+            description: 'Discover the vibrant culture and stunning landscapes of Dubai, a city of wonders and adventures.'
+          }, mappingDetails:
+            [
+              {
+                mappingId: "ubud",
+                mapname: "UBUD",
+                category: "Cultural Heart",
+                mapdescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life.",
+                image: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                coordinates: { top: "42%", left: "54%" },
+                fullDescription: "Ubud has been well documented by countless films, photographers, musicians, and writers. The picture-perfect Asian town is known for traditional crafts and dance. The tiny galleries and cafes are the perfect spots to unwind and take a pause from the chaotic life."
+              },
+              {
+                mappingId: "canggu",
+                mapname: "CANGGU",
+                category: "Surf Paradise",
+                mapdescription: "A laid-back beach town known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife. Perfect for surfers and digital nomads.",
+                image: "https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=400",
+                MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                coordinates: { top: "47%", left: "37%" },
+                fullDescription: "Canggu is a laid-back beach town that has become a hotspot for surfers, digital nomads, and travelers seeking a relaxed coastal vibe. Known for its world-class surf breaks, trendy beach clubs, and vibrant nightlife scene."
+              },
+              {
+                mappingId: "gili-trawangan",
+                mapname: "GILI TRAWANGAN",
+                category: "Island Paradise",
+                mapdescription: "The largest of the three Gili Islands, known for its pristine beaches, crystal-clear waters, and vibrant marine life. No motorized vehicles allowed.",
+                image: "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=400",
+                MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                coordinates: { top: "35%", left: "83%" },
+                fullDescription: "Gili Trawangan is the largest and most developed of the three Gili Islands. Known for its pristine white sand beaches, crystal-clear turquoise waters, and vibrant marine life. The island maintains its charm with no motorized vehicles allowed."
+              },
+              {
+                mappingId: "nusa-penida",
+                mapname: "NUSA PENIDA",
+                category: "Hidden Gem",
+                mapdescription: "A rugged island southeast of Bali, famous for its dramatic cliffs, pristine beaches, and Instagram-worthy viewpoints like Kelingking Beach.",
+                image: "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=400",
+                MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                coordinates: { top: "65%", left: "63%" },
+                fullDescription: "Nusa Penida is a rugged island located southeast of Bali, famous for its dramatic limestone cliffs, pristine beaches, and breathtaking viewpoints. Home to the iconic Kelingking Beach and Angel's Billabong."
+              },
+              {
+                mappingId: "seminyak",
+                mapname: "SEMINYAK",
+                category: "Luxury Beach",
+                mapdescription: "Bali's most sophisticated beach resort area, known for its upscale restaurants, luxury resorts, and stylish beach clubs with stunning sunset views.",
+                image: "https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=400",
+                MapLink: "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=400",
+                coordinates: { top: "52%", left: "41%" },
+                fullDescription: "Seminyak is Bali's most sophisticated and upscale beach resort area. Known for its luxury resorts, world-class restaurants, designer boutiques, and stylish beach clubs that offer stunning sunset views over the Indian Ocean."
+              }
+            ],
+          aboutItems: [
+            {
+              title: 'Culture',
+              description: 'Experience the rich cultural heritage and traditions of Dubai.',
+              imageUrl: 'https://i.postimg.cc/FK4dtp7z/img-1.jpg',
+              buttonText: 'Read More'
+            },
+            {
+              title: 'History',
+              description: 'Explore the historical landmarks and stories that shaped Dubai.',
+              imageUrl: 'https://i.postimg.cc/1XjnLZq1/about-2.jpg',
+              buttonText: 'Read More'
+            },
+            {
+              title: 'Nature',
+              description: 'Enjoy the natural beauty and serene landscapes of Dubai.',
+              imageUrl: 'https://i.postimg.cc/1X9r9PXg/about-3.jpg',
+              buttonText: 'Read More'
+            }
+          ],
+          serviceSection: {
+              title: 'Services We Provide in Dubai',
+              description: 'Explore the range of services we offer to make your stay in Dubai unforgettable.',
+              services: [
+                {
+                  icon: 'fas fa-drumstick-bite',
+                  title: 'Local Cuisine',
+                  imageUrl: "Https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+                  description: 'savor the exquisite local cuisine and dining experiences.'
+                },
+                {
+                  icon: 'fas fa-umbrella-beach',
+                  title: 'Beach Resorts',
+                  description: 'Relax at our premium beach resorts and enjoy the sun and sea.',
+                  imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+                },
+                {
+                  icon: 'fas fa-hiking',
+                  title: 'Adventure tours',
+                  description: 'join Our Adventure tours And explore the breathtaking landscapes.',
+                  imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+                },
+                {
+                  icon: 'fas fa-mountain',
+                  title: 'Cultural experiences',
+                  description: 'immerse yourself in the rich cultural experiences and traditions.',
+                  imageUrl: "https://res.cloudinary.com/djwss052h/image/upload/v1752073141/maldives_adventure_mbgilk.jpg",
+                }
+              ]
+            },
+          itinerary:
+            [
+              {
+                day: 1,
+                title: 'Arrival in Paradise',
+                transfers: 'Airport to Seminyak - The Bali Dream Villa Seminyak on Private Basis',
+                locations: [
+                  {
+                    name: 'Seminyak Beach',
+                    description: 'Beautiful beach with world-class surfing',
+                    images: [
+                      'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                      'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                    ]
+                  }
+                ],
+                accommodation: 'The Bali Dream Villa Seminyak',
+                mealPlan: 'No meals included',
+                highlights: ['Private villa check-in', 'Seminyak exploration', 'Beach relaxation'],
+                images: {
+                  places: [
+                    'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                    'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                  ],
+                  hotel: [
+                    'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                    'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+                  ]
+                },
+                hotelPhotoLabels: ['Suite', 'Pool', 'Lobby', 'Restaurant', 'Spa', 'Garden'],
+    placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+              },
+              {
+                day: 2,
+                title: 'Nusa Penida Island Adventure',
+                transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+                locations: [
+                  {
+                    name: 'Seminyak Beach',
+                    description: 'Beautiful beach with world-class surfing',
+                    images: [
+                      'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                      'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                    ]
+                  }
+                ],
+                accommodation: 'The Bali Dream Villa Seminyak',
+                mealPlan: 'Breakfast + Lunch',
+                highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+                images: {
+                  places: [
+                    'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                    'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                  ],
+                  hotel: [
+                    'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                    'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+                  ]
+                },
+                hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+    placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+              },
+              {
+                day: 3,
+                title: 'Nusa Penida Island Adventure',
+                transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+                locations: [
+                  {
+                    name: 'Seminyak Beach',
+                    description: 'Beautiful beach with world-class surfing',
+                    images: [
+                      'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                      'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                    ]
+                  }
+                ],
+                accommodation: 'The Bali Dream Villa Seminyak',
+                mealPlan: 'Breakfast + Lunch',
+                highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+                images: {
+                  places: [
+                    'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                    'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                  ],
+                  hotel: [
+                    'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                    'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+                  ]
+                },
+                hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+    placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+              },
+              {
+                day: 4,
+                title: 'Nusa Penida Island Adventure',
+                transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+                locations: [
+                  {
+                    name: 'Seminyak Beach',
+                    description: 'Beautiful beach with world-class surfing',
+                    images: [
+                      'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                      'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                    ]
+                  }
+                ],
+                accommodation: 'The Bali Dream Villa Seminyak',
+                mealPlan: 'Breakfast + Lunch',
+                highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+                images: {
+                  places: [
+                    'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                    'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                  ],
+                  hotel: [
+                    'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                    'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+                  ]
+                },
+                hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+    placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+              },
+              {
+                day: 5,
+                title: 'Nusa Penida Island Adventure',
+                transfers: 'Full Day Nusa Penida Tour on SIC Basis Pick Up From Seminyak',
+                locations: [
+                  {
+                    name: 'Seminyak Beach',
+                    description: 'Beautiful beach with world-class surfing',
+                    images: [
+                      'https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg',
+                      'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                    ]
+                  }
+                ],
+                accommodation: 'The Bali Dream Villa Seminyak',
+                mealPlan: 'Breakfast + Lunch',
+                highlights: ['Snorkeling adventure', 'Instagram-worthy spots', 'Island hopping', 'Crystal clear waters'],
+                images: {
+                  places: [
+                    'https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg',
+                    'https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg'
+                  ],
+                  hotel: [
+                    'https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg',
+                    'https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg'
+                  ]
+                },
+                hotelPhotoLabels: ['Ocean View', 'Beachfront', 'Dining Area', 'Swimming Pool', 'Sunset Deck'],
+    placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
+              },
+            ],
+          cost: 110000,
+          duration: "4D/3N",
     },
   ];
 
@@ -5597,21 +6581,6 @@ placePhotoLabels: ['Seminyak Beach', 'Surfing Heaven',]
   }
 
   getAllLocations() {
-    return [...this.locations, ...this.trendylocations];
-  }
-  // New method to get destination names for dropdown
-  getDestinationNames(): string[] {
-    const allLocations = this.getAllLocations()
-    return allLocations.map((location) => location.name)
-  }
-
-  // New method to search destinations
-  searchDestinations(query: string) {
-    const allLocations = this.getAllLocations()
-    return allLocations.filter(
-      (location) =>
-        location.name.toLowerCase().includes(query.toLowerCase()) ||
-        location.description.toLowerCase().includes(query.toLowerCase()),
-    )
+    return [...this.locations];
   }
 }
